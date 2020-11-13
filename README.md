@@ -1,4 +1,4 @@
-## 👋 Hi Everyone, I'm [Reyhan](https://www.instagram.com/reyreyhan/)! I'm Software Engineer From Indonesia.
+## 👋 Hi Everyone, I'm [Reyhan](https://www.instagram.com/reyreyhan/)! I'm Software Engineer From Indonesia - Surabaya.
 
 - 🌱 I’m currently learning [NestJS](https://docs.nestjs.com), [Deno](https://deno.land/) and [Go Programming Language](https://golang.org/).
 - 👯 I’m looking to collaborate on any open source projects related to JavaScript, TypeScript and Golang.
