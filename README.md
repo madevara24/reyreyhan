@@ -8,6 +8,4 @@
 - ⚡ Fun fact: I like traveling especially in beach with writing some code 😅
 - 😄 I like this quote "if you want go fast go alone if you want go far go together".
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reyreyhan&count_private=true&show_icons=true&theme=dark)](https://github.com/saktinugraha/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyreyhan&layout=compact&theme=dark)](https://github.com/saktinugraha/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyreyhan&layout=compact&theme=dark)](https://github.com/saktinugraha/github-readme-stats) [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reyreyhan&count_private=true&show_icons=true&theme=dark)](https://github.com/saktinugraha/github-readme-stats)
