@@ -17,4 +17,4 @@
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyreyhan&layout=compact&theme=dark)](https://github.com/reyreyhan/github-readme-stats) [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reyreyhan&count_private=true&show_icons=true&theme=dark)](https://github.com/reyreyhan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyreyhan&layout=compact&theme=dark)](https://github.com/reyreyhan/) [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reyreyhan&count_private=true&show_icons=true&theme=dark)](https://github.com/reyreyhan/)
